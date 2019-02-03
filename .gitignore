@@ -339,3 +339,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# ============================================================================
+# Repo-specific folders and files
+
+libsrc/
+lib/
